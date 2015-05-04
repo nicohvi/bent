@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>get-task-allow</key>
+	<true/>
+	<key>application-identifier</key>
+	<string>S7U7C9T53K.com.your-company.Bent</string>
+	<key>com.apple.developer.team-identifier</key>
+	<string>4F6XLP4VU6</string>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>S7U7C9T53K.com.your-company.Bent</string>
+	</array>
+</dict>
+</plist>

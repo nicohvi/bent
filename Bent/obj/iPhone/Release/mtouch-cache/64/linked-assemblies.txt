@@ -1,0 +1,7 @@
+/Users/nicohvi/Workspace/xamarin/Bent/Bent/obj/iPhone/Release/mtouch-cache/64/Link/MonoTouch.Dialog-1.dll
+/Users/nicohvi/Workspace/xamarin/Bent/Bent/obj/iPhone/Release/mtouch-cache/64/Link/mscorlib.dll
+/Users/nicohvi/Workspace/xamarin/Bent/Bent/obj/iPhone/Release/mtouch-cache/64/Link/System.Core.dll
+/Users/nicohvi/Workspace/xamarin/Bent/Bent/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/nicohvi/Workspace/xamarin/Bent/Bent/obj/iPhone/Release/mtouch-cache/64/Link/Bent.exe
+/Users/nicohvi/Workspace/xamarin/Bent/Bent/obj/iPhone/Release/mtouch-cache/64/Link/System.Json.dll
+/Users/nicohvi/Workspace/xamarin/Bent/Bent/obj/iPhone/Release/mtouch-cache/64/Link/System.dll
